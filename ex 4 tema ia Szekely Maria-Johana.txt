@@ -1,0 +1,35 @@
+body {background-color: #FFFFCC;}
+
+#tabel_caracteristici, #th, #td
+{
+border: 3px solid black;
+background-color: #dba4ba;
+width:100%
+}
+
+#titluri
+{
+background-color: red;
+font-family: "Calibri", cursive, sans-serif;
+}
+
+#h2
+{
+background-color: yellow;
+color: #660033
+font-family:"Calibri", cursive, sans-serif;
+}
+
+#p
+{
+color: black;
+font-size: 18px;
+font-family:"Calibri";
+}
+
+#img
+{
+ border-color:black
+ border: 4px solid black;
+		with: 150 px;
+}
